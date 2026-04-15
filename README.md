@@ -4,16 +4,6 @@
 
 使用方法：创建一个MySQL数据库，配置databases文件后插件会自行创建数据表
 
-"l4d2_rank"
-	{
-		"driver"            "mysql"
-		"host"              "127.0.0.1"
-		"database"          "your database"
-		"user"              "user"
-		"pass"              "pass"
-		"port"              "3306"
-	}
-
 指令:
 
 !rank自己的积分，开关头衔
